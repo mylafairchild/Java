@@ -1,0 +1,11 @@
+import javax.swing.JOptionPane;
+public class MylaFirstProgram
+{
+  public static void main(String[] args)
+  {
+    JOptionPane.showMessageDialog(null, "This is a GUI window...");
+    JOptionPane.showMessageDialog(null, "So is this!");
+  
+    System.out.println("I wrote this very basic java code!");
+  }
+}
