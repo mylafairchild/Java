@@ -1,4 +1,4 @@
-//Figuring out a house loan payment at 5% interest, rounded up two spaces.
+//Figuring out a house loan payment at 5% interest, rounded up two spaces. Myla Fairchild
 
 import java.math.RoundingMode;
 
