@@ -10,6 +10,6 @@ public class MylaFirstProgram
     JOptionPane.showMessageDialog(null, "This is a GUI window...");
     JOptionPane.showMessageDialog(null, "So is this!");
   
-    System.out.println("I wrote this very basic java code!");
+    System.out.println("Just making windows like cats make biscuits!");
   }
 }
